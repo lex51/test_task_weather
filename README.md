@@ -10,21 +10,14 @@
 Введенные год и месяц не играют роли при сборе прогноза прогноза - он есть только на 30 дней )
 
 
-'установка\запуск'
+## установка\запуск
 
 
-необходим python3.6+
+необходим ***python3.6+***
 
-установка зависимостей  python3 -m pip install -r requirements.txt 
+установка зависимостей ***python3 -m pip install -r requirements.txt*** 
 
-в файле config.py - впишите свой токен
+в файле ***config.py*** - впишите свой токен
 
-и запустите скрипт командой python3 forecast.py 
+и запустите скрипт командой ***python3 forecast.py*** 
 
-
-
-
-
-
-
-python3 -m pip install -r requirements.txt 
